@@ -1,0 +1,22 @@
+дек. 16, 2024 11:05:45 PM Server.MainServer main
+INFO: Start server!
+дек. 16, 2024 11:05:45 PM Server.MainServer main
+INFO: Server waiting connection...
+дек. 16, 2024 11:05:54 PM Server.MainServer main
+INFO: Client connection!
+дек. 16, 2024 11:06:37 PM Server.MainServer main
+INFO: Author authorized!
+дек. 16, 2024 11:06:37 PM Server.MainServer main
+INFO: Command: SET, params: Id Value
+дек. 16, 2024 11:06:57 PM Server.MainServer main
+INFO: Author authorized!
+дек. 16, 2024 11:09:01 PM Server.MainServer main
+INFO: Author authorized!
+дек. 16, 2024 11:09:01 PM Server.MainServer main
+INFO: Command: UNSET, value is delete!
+дек. 16, 2024 11:10:27 PM Server.MainServer main
+INFO: Input and output stream close!
+дек. 16, 2024 11:10:27 PM Server.MainServer main
+INFO: Server closed!
+дек. 16, 2024 11:10:27 PM Server.MainServer main
+INFO: java.net.SocketException: Connection reset
